@@ -75,7 +75,7 @@ Faço alguns freelancers de sistemas web, tendo algumas landing pages e ecommerc
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    width="44.5%" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=hidemp4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -83,7 +83,7 @@ Faço alguns freelancers de sistemas web, tendo algumas landing pages e ecommerc
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180"
+      width="40%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidemp4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </span>
