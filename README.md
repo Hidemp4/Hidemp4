@@ -67,15 +67,3 @@ Faço alguns freelancers de sistemas web, tendo algumas landing pages e ecommerc
 />
 </br>
 </br>
-### 📊 Estatísticas
-  <img 
-    alt="GitHub Stats" 
-    style="width: 44%; max-width: 100%;"
-    src="https://github-readme-stats.vercel.app/api?username=hidemp4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Top Langs" 
-    style="width: 40%; max-width: 100%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidemp4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
